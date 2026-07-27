@@ -1,0 +1,1 @@
+# GuiaLayoutView.swift
