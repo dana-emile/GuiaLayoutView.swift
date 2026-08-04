@@ -1,7 +1,7 @@
 ## Arquitetura de Layout e Organização Espacial
 
 Desenvolvi um painel abrangente para dominar os fluxos de posicionamento e renderização de elementos de interface no SwiftUI:
-* **`VStack`**: Alinhamento vertical simples de views, é possible controlar o espaçamento.
+* **`VStack`**: Alinhamento vertical simples de views, é possível controlar o espaçamento.
 * **`HStack`**: Alinhamento horizontal de componentes.
 * **`ZStack`**: Modifica a profundidade baseado em camadas tridimensionais (eixo Z).
 * **`Spacer`**: Componente expansível que ocupa todo o espaço livre restante.
